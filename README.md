@@ -15,7 +15,7 @@ This script sends bulk email via Office365. Since mail merge dumps everything in
 
 4. You will be prompted to specify path to your HTML email body template. You can add %variables% enclosed in percent signs and those will we expanded into the actual field values from your CSV:
 
-![Screenshot](template4.png)
+![Screenshot](template.png)
 
 5. You will be prompted for email subject. %Fieldnames% are expanded here as well.
 6. Emails will be generated and sent.
